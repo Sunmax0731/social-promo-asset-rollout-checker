@@ -1,0 +1,18 @@
+{
+  "name": "social-promo-asset-rollout-checker",
+  "version": "0.1.0-alpha.1",
+  "private": false,
+  "type": "module",
+  "description": "SNS・販促素材展開チェック closed alpha",
+  "scripts": {
+    "test": "node tests/product.test.mjs",
+    "validate": "node src/cli/index.js --input samples/representative-suite.json --output dist/social-promo-asset-rollout-checker-representative-report.json",
+    "build": "node scripts/build-docs-zip.mjs"
+  },
+  "keywords": [
+    "AdobePlugin",
+    "closed-alpha",
+    "qcds"
+  ],
+  "license": "MIT"
+}

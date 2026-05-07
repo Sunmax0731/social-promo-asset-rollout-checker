@@ -1,0 +1,22 @@
+{
+  "product": "social-promo-asset-rollout-checker",
+  "tag": "v0.1.0-alpha.1",
+  "status": "pre-release-pending",
+  "manualTestStatus": "手動テスト未実施",
+  "automatedVerification": {
+    "npmTest": "pending",
+    "npmRunValidate": "pending",
+    "npmRunBuild": "pending"
+  },
+  "github": {
+    "repo": "https://github.com/Sunmax0731/social-promo-asset-rollout-checker",
+    "releaseUrl": null,
+    "prerelease": null,
+    "latest": null,
+    "assetCount": 0
+  },
+  "git": {
+    "mainOriginClean": null,
+    "codexBranchesRemaining": null
+  }
+}
