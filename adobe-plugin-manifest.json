@@ -1,0 +1,7 @@
+{
+  "id": "com.sunmax0731.social-promo-asset-rollout-checker",
+  "name": "SNS・販促素材展開チェック",
+  "version": "0.1.0-alpha.1",
+  "targetHost": "AdobeExpress",
+  "closedAlpha": true
+}
